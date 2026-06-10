@@ -1,0 +1,11 @@
+.venv/
+data/
+
+__pycache__
+
+playground.ipynb
+*.csv
+*.data
+*.name
+
+.DS_STORE
